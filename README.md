@@ -9,8 +9,6 @@ How to use:
 ``` java
 //first:make a Connection
 Connection c = null;
-PreparedStatement ps = null;
-ResultSet rst = null;
 String url = "jdbc:mysql://localhost:3306/mydatabase";
 String user = "root";
 String pwd = "123456";
