@@ -1,6 +1,8 @@
 # ModelCreator
 Simple programming which can create model file from database for JAVAEE MVC development
 
+Can create models for all tables in the given database in three step 
+
 
 How to use:
 
